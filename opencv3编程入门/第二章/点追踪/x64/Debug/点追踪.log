@@ -1,0 +1,9 @@
+﻿  点追踪.cpp
+d:\c++code\opencv3编程入门\第二章\点追踪\点追踪.cpp(108): error C2666: “cv::goodFeaturesToTrack”: 2 个重载有相似的转换
+  d:\opencv\opencv\build\include\opencv2\imgproc.hpp(1927): note: 可能是“void cv::goodFeaturesToTrack(cv::InputArray,cv::OutputArray,int,double,double,cv::InputArray,int,int,bool,double)”
+  d:\opencv\opencv\build\include\opencv2\imgproc.hpp(1922): note: 或    “void cv::goodFeaturesToTrack(cv::InputArray,cv::OutputArray,int,double,double,cv::InputArray,int,bool,double)”
+  d:\c++code\opencv3编程入门\第二章\点追踪\点追踪.cpp(108): note: 尝试匹配参数列表“(cv::Mat, std::vector<cv::Point2f,std::allocator<_Ty>>, const int, double, int, cv::Mat, int, int, double)”时
+          with
+          [
+              _Ty=cv::Point2f
+          ]
