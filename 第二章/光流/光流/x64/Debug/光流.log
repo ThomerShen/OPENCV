@@ -1,4 +1,0 @@
-﻿  pch.cpp
-  光流.cpp
-d:\c++code\opencv3编程入门\第二章\光流\光流\光流.cpp(132): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  光流.vcxproj -> D:\C++Code\opencv3编程入门\第二章\光流\x64\Debug\光流.exe
